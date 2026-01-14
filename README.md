@@ -4,6 +4,16 @@
 
 Kunjungi di sini https://nokensoft-100-website-gratis.github.io/014-cafe-tana-papua/
 
+### Mockup tampilan destop
+<img src="./mockup-desktop.png" height="300px">
+
+### Mockup tampilan mobile
+<img src="./mockup-mobile.png" height="500px">
+
+### Mockup tampilan tablet
+<img src="./mockup-tablet.png" height="500px">
+
+
 ## ☕ Tana Papua Coffee and Roastery - Digital Storefront
 
 "Kehangatan Tanah Papua dalam Setiap Gigitan dan Sesapan."
